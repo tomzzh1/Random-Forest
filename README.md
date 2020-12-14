@@ -1,5 +1,7 @@
-# Random-Forest
+# Random Forest Algorithum
 
-## This code example briefly explained how Random Forest algorithum works using a simple example.
+This code example briefly explained how Random Forest algorithum works using a simple example.
 
-## It mostly explained how it is random. 
+Without involves complex mathematics, you have an intuition show Random Forest works.
+
+It mostly explained how it is called random. 
